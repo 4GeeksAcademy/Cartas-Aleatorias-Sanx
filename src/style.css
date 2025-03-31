@@ -1,5 +1,18 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+
+.red {
+    color: red;
+  }
+  
+  .black {
+    color: black;
+  }
+
+#textCard {
+font-family: "Libre Baskerville";
+font-size: 60px !important;
+}
+
+#symbolTop, #symbolBottom {
+  font-size: 70px !important;
 }
